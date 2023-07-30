@@ -1,0 +1,166 @@
+.stylinglogo{
+	width: 160px;
+	height: 50px;
+
+}
+#go{
+	color: black;
+	font-weight: bold;
+	border: 0px;
+}
+#go:hover{
+	color: #c90202;
+}
+#goo1{
+	background-color: #c90202;
+	color: white;
+	padding: 5px 10px;
+	border-radius: 5px;
+	font-weight: bold;
+	border: 0px;
+	margin-left: 20px;
+}
+
+#goo1:hover{
+	background-color: green;
+}
+.bgimg1{
+	background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+	background-size: cover;
+	height: 80vh;
+}
+.head1{
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+}
+.paraline{
+	color: #f5f7fa;
+	font-size: 25px;
+	font-weight: 300;
+}
+.buttonst{
+	color: white;
+	background-color: #c90202;
+	width: 230px;
+	height: 45px;
+	border-width: 0px;
+	border-radius: 8px;
+	font-weight: bold;
+}
+.bgcolor2{
+	background-color: #f9fbfe;
+}
+.head2{
+	color: #183b56;
+	font-size: 28px;
+	font-weight: 700;
+}
+.para2{
+	color: #5a7184;
+	font-size: 16px;
+}
+.carding{
+	text-align: center;
+	background-color: white;
+	border: solid;
+	border-width: 1px;
+	border-color: #e5eaf4;
+	border-radius: 16px;
+}
+.carding:hover{
+	background-color: yellow;
+
+}
+.cardimage{
+	width: 87px;
+	height: 90px;
+}
+.chead{
+	color: #323f4b;
+	font-weight: bold;
+	font-size: 22px;
+}
+.cpara{
+	color: #323f4b;
+	font-size: 16px;
+	font-weight: 600;
+}
+.bgcolor4{
+	background-color: white;
+}
+.explorehead{
+	color: #183b56;
+	font-size: 28px;
+	font-weight: 700;
+}
+.explorecards{
+	border-radius: 16px;
+}
+.explorecards:hover{
+	background-color: yellow;
+}
+.exploreimage{
+	border-radius: 16px;
+}
+.cardhead4{
+	color: #323f4b;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 24px;
+}
+
+.explorelink{
+	color: #c90202;
+	font-size: 14px;
+	font-weight: bold;
+}
+.paybging{
+	background-color: white;
+}
+.paymenting{
+	width: 350px;
+}
+.payhead{
+	color: #183b56;
+	font-size: 28px;
+	font-weight: 700;
+}
+.paypara{
+	color: #5a7184;
+	font-size: 16px;
+}
+.cstbutton{
+	color: white;
+	background-color: #c90202;
+	width: 130px;
+	height: 45px;
+	border-width: 0;
+	border-radius: 8px;
+	margin-right: 10px;
+}
+.paycarding{
+	width: 50px;
+	height: 50px;
+	margin-right: 28px;
+}
+#contact{
+	background-color: #0f6d75;
+	padding-bottom: 4rem;
+}
+.socialicons{
+	font-size: 40px;
+	cursor: pointer;
+}
+#icenter1{
+	text-align: center;
+}
+.fa-brands{
+	color: white;
+}
+.fa-facebook,.fa-instagram,.fa-linkedin{
+	margin: 40px;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover{
+	color: black;
+}
